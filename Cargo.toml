@@ -1,0 +1,8 @@
+[package]
+
+name = "rpassgen"
+version = "0.0.1"
+authors = [ "Luis Medinas <lmedinas@gmail.com>" ]
+
+[dependencies]
+rand = "0.3.8"
